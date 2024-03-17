@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#page1 {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffd4d4;
+}
+
+#page2 {
+  height: 100vh;
+  width: 100%;
+  background-color: #ffffe8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#page3 {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cde990;
+}
+
+#box {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  background-color: #713030;
+}
